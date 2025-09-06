@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+
+}
+
+div{
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+    margin: 15px;
+}
+
+.recipes{
+    background-color: blueviolet;
+}
+a{
+    color: black;
+}
+
+.homebutton {
+    color: aquamarine;
+}
+
+.buttonStyle {
+    margin: auto;
+    width: 40px
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.intro{
+
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.ingredients{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
